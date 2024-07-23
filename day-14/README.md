@@ -1,4 +1,3 @@
-# AWS Webhook Testing
 # AWS Continuous Integration Demo
 
 ## Set Up GitHub Repository
